@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jingyi. I’m studying at [Hive Helsinki](https://www.hive.fi/en/)🐝, a [42 coding school](https://42.fr/en/homepage/).
+I'm Jingyi/Leonor. I’m studying at [Hive Helsinki](https://www.hive.fi/en/)🐝, a [42 coding school](https://42.fr/en/homepage/).
 <!--
 **LeonorTu/LeonorTu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💻 Programming languages: 
-![C][3.1] ![Python][3.3]
+  ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+  ![
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonorTu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
