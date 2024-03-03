@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Jingyi.
+- 🔭 I’m currently studying at [Hive Helsinki](https://www.hive.fi/en/), a [42 coding school](https://42.fr/en/homepage/).
 <!--
 **LeonorTu/LeonorTu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
