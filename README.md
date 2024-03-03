@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 💻 Programming languages: 
-  ![C]([http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white))
-  ![Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+  ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonorTu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
