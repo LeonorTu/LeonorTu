@@ -19,5 +19,7 @@ Here are some ideas to get you started:
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+### 🐍 Contributions
+![Snake animation](https://github.com/LeonorTu/LeonorTu/blob/output/github-contribution-grid-snake.svg) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonorTu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
