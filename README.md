@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm Jingyi/Leonor. 
 
-- 🔭 I’m currently working on ...I’m studying at [Hive Helsinki](https://www.hive.fi/en/)🐝([42 coding school](https://42.fr/en/homepage/)).
-- 🌱 I’m currently learning [Full Stack Open](https://fullstackopen.com/) from the University of Helsinki to deepen my skills in web development and modern technologies.
+- 🌱 I’m studying at [Hive Helsinki](https://www.hive.fi/en/)🐝([42 coding school](https://42.fr/en/homepage/)).
+- 🔭 I’m currently learning [Full Stack Open](https://fullstackopen.com/) from the University of Helsinki to deepen my skills in web development and modern technologies.
 - 📫 How to reach me: Jingyi.Tu@outlook.com
 
 ### 🛠️ Skills
