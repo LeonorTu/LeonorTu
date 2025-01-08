@@ -27,5 +27,3 @@ I'm Jingyi/Leonor.
 
 ### 🐍 Contributions
 ![Snake animation](https://github.com/LeonorTu/LeonorTu/blob/output/github-contribution-grid-snake.svg) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonorTu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
