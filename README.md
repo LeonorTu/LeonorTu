@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jingyi/Leonor. 
+I'm Jingyi, you can also call me Leonor
 
 ### 🛠️ Skills
 
